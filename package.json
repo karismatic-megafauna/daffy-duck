@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "vorpal": "^1.3.34"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelghinrichs/daffy-duck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelghinrichs/daffy-duck/issues"
+  },
+  "homepage": "https://github.com/michaelghinrichs/daffy-duck#readme"
+}
